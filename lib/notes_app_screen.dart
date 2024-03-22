@@ -1,3 +1,5 @@
+// ignore_for_file: prefer_for_elements_to_map_fromiterable
+
 import 'package:flutter/material.dart';
 import 'package:notes_app/add_notes_screen.dart';
 import 'package:notes_app/database.dart';
